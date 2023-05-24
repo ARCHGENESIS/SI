@@ -4,13 +4,13 @@
   "detectionMode": "mono",
   "cameraParametersUrl": "data/camera_para.dat",
   "markersAreaEnabled": true,
-  "arToolKitMarkerFile": "qrcriminalstance.png",
+  "arToolKitMarkerFile": "markerimage.png",
   "arToolKitMarkerSize": 1,
   "patternRatio": 0.75,
   "custom": {
-    "patternUrl": "qrcriminalstance.png",
+    "patternUrl": "markerimage.png",
     "type": "pattern",
-    "url": "qrcriminalstance.png",
+    "url": "markerimage.png",
     "size": 1,
     "minConfidence": 0.6
   }
