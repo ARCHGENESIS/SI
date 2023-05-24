@@ -4,13 +4,13 @@
   "detectionMode": "mono",
   "cameraParametersUrl": "data/camera_para.dat",
   "markersAreaEnabled": true,
-  "arToolKitMarkerFile": "marker.png",
+  "arToolKitMarkerFile": "markerofmyface.png",
   "arToolKitMarkerSize": 1,
   "patternRatio": 0.75,
   "custom": {
-    "patternUrl": "marker.png",
+    "patternUrl": "markerofmyface.png",
     "type": "pattern",
-    "url": "marker.png",
+    "url": "markerofmyface.png",
     "size": 1,
     "minConfidence": 0.6
   }
