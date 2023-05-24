@@ -1,0 +1,17 @@
+{
+  "trackingMethod": "best",
+  "maxDetectionRate": 30,
+  "detectionMode": "mono",
+  "cameraParametersUrl": "data/camera_para.dat",
+  "markersAreaEnabled": true,
+  "arToolKitMarkerFile": "marker.png",
+  "arToolKitMarkerSize": 1,
+  "patternRatio": 0.75,
+  "custom": {
+    "patternUrl": "marker.png",
+    "type": "pattern",
+    "url": "marker.png",
+    "size": 1,
+    "minConfidence": 0.6
+  }
+}
