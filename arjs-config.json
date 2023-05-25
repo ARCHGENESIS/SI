@@ -1,17 +1,14 @@
 {
+  "debug": true,
   "trackingMethod": "best",
   "maxDetectionRate": 30,
   "detectionMode": "mono",
-  "cameraParametersUrl": "data/camera_para.dat",
-  "markersAreaEnabled": true,
-  "arToolKitMarkerFile": "qrcriminalstance.png",
-  "arToolKitMarkerSize": 1,
+  "matrixCodeType": "3x3",
   "patternRatio": 0.75,
-  "custom": {
-    "patternUrl": "qrcriminalstance.png",
-    "type": "pattern",
-    "url": "qrcriminalstance.png",
-    "size": 1,
-    "minConfidence": 0.6
-  }
+  "cameraParametersUrl": "camera_para.dat",
+  "markersAreaEnabled": false,
+  "nftWorkerUrl": "https://cdn.jsdelivr.net/npm/arjs-nft@1.2.0/nft/worker.min.js",
+  "route": "assets",
+  "debugUIEnabled": false
 }
+
